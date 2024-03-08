@@ -1,0 +1,30 @@
+[
+    {
+        "name": "John Doe",
+        "age": 35,
+        "department": "Marketing",
+    },
+    {
+        "name": "Jane Smith",
+        "age": 28,
+        "department": "Human Resources",
+        
+    },
+    {
+        "name": "Michael Johnson",
+        "age": 40,
+        "department": "Finance",
+        
+    },
+    {
+        "name": "Emily Brown",
+        "age": 32,
+        "department": "Operations",
+
+    },
+    {
+        "name": "David Lee",
+        "age": 45,
+        "department": "Engineering",
+
+]
